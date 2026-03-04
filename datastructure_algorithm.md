@@ -13,7 +13,7 @@ print(two_sum([2,7,6,5],9))
     [0, 1]
     
 
-# **DataStructure and Algorithm**
+# **DataStructure and Algorithm W1**
 
 https://detexify.kirelabs.org/classify.html (用來切換LaTex的)
 
